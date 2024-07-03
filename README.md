@@ -40,7 +40,7 @@ Cada terminal de receptor exibirá as mensagens enviadas pelos emissores. O chat
 
 ## Navegação
 * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
-    * [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
+    * [Redes e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
 
 ## Licença
 
