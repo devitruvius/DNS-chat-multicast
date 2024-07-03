@@ -38,6 +38,10 @@ Cada terminal de receptor exibirá as mensagens enviadas pelos emissores. O chat
 - `chat_multicast.py`: Contém o código principal do chat multicast.
 - `README.md`: Documentação do projeto.
 
+## Navegação
+* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+    * [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
